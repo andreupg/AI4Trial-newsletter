@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: AI4Trial Newsletter # the main title
+title: AI4Trial News # the main title
 
-tagline: Latest advancements of AI and Machine Learning for Clinical Trials # it will display as the subtitle
+tagline: Scientific advancements in AI and Machine Learning for Clinical Trials... AI generated! # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A collection of monthly AI generated newsletters providing an overview of the scientific advancements in the field of ML and AI applied to Clinical Trials. The content in these newsletters is 100% AI-generated. Read them with caution and always verify the information before external use, as it may contain errors, mistakes, or inaccurate statements.
@@ -24,7 +24,6 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://andreupg.github.io"
-baseurl: "/AI4Trial-news"
 
 github:
   username: andreupg # change to your GitHub username
@@ -147,7 +146,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/AI4Trial-newsletter"
 
 # ------------ The following options are not recommended to be modified ------------------
 
